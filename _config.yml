@@ -1,28 +1,5 @@
-exclude: ['README.md']
-timezone: US/Eastern
-markdown: pandoc
-#gems:
-#  - jekyll-pandoc
-
-collections:
-  projects:
-    output: true
-  papers:
-    output: true
-#  cv:
-#    output: false
-
-deploy: "https://alstonyeo.github.io/test"
-
-env: github
-pandoc:
-  format: html5
-  extensions:
-    - normalize
-    - smart
-    - mathjax
-    - css: ../css/cv.css
-    - csl: _styles/acl.csl
-    - bibliography: papers/bibtex.bib
-
+title: Chng Eng Siong
+logo: /images/es2_small.jpg
+#description: text below image
+#show_downloads: true
 theme: jekyll-theme-minimal
