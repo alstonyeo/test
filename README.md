@@ -2,23 +2,24 @@
 work:
   title2: Research Director
   title: Associate Professor
-  office: Blk N4, 02c-96, Nanyang Avenue. School of Computer Science and Engineering. Nanyang Technological University,Singapore 639798
-  email: aseschng_at_ntu_dot_edu_dot_sg 
+  office: Blk N4, 02c-96, Nanyang Avenue. School of Computer Science and Engineering. Nanyang Technological University, Singapore 639798
+  email: aseschng_at_ntu_dot_edu_dot_sg
   phone: +65 67906200
-  cell:  +65 67926559
+  cell: +65 67926559
 
   group:
-    url: [https://ntunlpsg.github.io/#about](https://aisingapore.org/aiproducts/speech-lab/)
+    url: "https://ntunlpsg.github.io/#about"
     name: AISG Speech Lab
 
   department:
-    url: [http://scse.ntu.edu.sg/Pages/Home.aspx](https://www.ntu.edu.sg/computing)
+    url: "https://www.ntu.edu.sg/computing"
     name: College of Computing and Data Science
 
   university:
-    url: http://www.ntu.edu.sg
+    url: "http://www.ntu.edu.sg"
     name: NTU
 ---
+
 
 <div class="page-header">
   <div class="row">
