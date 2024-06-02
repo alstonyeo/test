@@ -25,4 +25,4 @@ pandoc:
     - csl: _styles/acl.csl
     - bibliography: papers/bibtex.bib
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
