@@ -8,14 +8,12 @@ work:
   cell:  +65 67926559
 
   group:
-    url2: https://www.salesforceairesearch.com/research
-    url: https://ntunlpsg.github.io/#about
-    name2: Salesforce AI Research
-    name: NTU Natural Language Processing Group
+    url: [https://ntunlpsg.github.io/#about](https://aisingapore.org/aiproducts/speech-lab/)
+    name: AISG Speech Lab
 
   department:
-    url: http://scse.ntu.edu.sg/Pages/Home.aspx
-    name: School of Computer Science and Engineering 
+    url: [http://scse.ntu.edu.sg/Pages/Home.aspx](https://www.ntu.edu.sg/computing)
+    name: College of Computing and Data Science
 
   university:
     url: http://www.ntu.edu.sg
@@ -71,9 +69,7 @@ work:
 <div class="row">
   <div class="col-sm-12">
     <h3> Short Biography </h3>
-      <li> Research Director, <a https://www.salesforceairesearch.com/research> Salesforce AI Research </a>  Palo Alto, USA   [Sep'22 - ] </li>
-      <li> Associate Professor (tenured, on leave since Aug 2022), <a href=http://www.ntu.edu.sg> Nanyang Technological University (NTU), </a>    Singapore [Mar'22 - ] </li>
-      <li> Senior Research Manager (part time), <a https://www.salesforce.com/products/einstein/ai-research/> Salesforce AI Research, </a>    Singapore [Feb'19 - Aug'22] </li>
+      <li> Associate Professor, <a href=http://www.ntu.edu.sg> Nanyang Technological University (NTU), </a>    Singapore </li>
       <li> Assistant Professor, <a href=http://www.ntu.edu.sg> Nanyang Technological University (NTU), </a>    Singapore [Jul'17 - Feb'22] </li>
       <li> Research Scientist,  <a href=http://qcri.qa/> Qatar Computing Research Institute (QCRI), </a> Doha [Jan'14 - Jul'17] </li>
       <li> PhD in Computer Science, <a href=https://www.cs.ubc.ca/> University of British Columbia (UBC),</a> Vancouver [Sep'08 - Feb'14] </li>
