@@ -30,8 +30,6 @@ work:
 
   <div class="row">
     <div class="col-sm-4">
-      <a href="mailto:{{ page.work.email2 }}"><span class="glyphicon glyphicon-envelope"></span></a> Email<br/>
-      <a href="tel:{{ page.work.phone2 }}"><span class="glyphicon glyphicon-phone"></span>Phone</a><br/>
       {% if page.scholar.id %}<a href="http://scholar.google.com/citations?user={{ page.scholar.id }}">
         <img src="img/ico/gs.png" alt=""/>
       </a> Google Scholar<br/>{% endif %}
