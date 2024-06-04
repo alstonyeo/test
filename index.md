@@ -1,28 +1,6 @@
 ---
-work:
-  title: Associate Professor
-  office: Blk N4, 02c-96, Nanyang Avenue. School of Computer Science and Engineering. Nanyang Technological University, Singapore 639798
-  email: aseschng_at_ntu_dot_edu_dot_sg
-  phone: +65 67906200
-  cell: +65 67926559
-
-  group:
-    url: "https://aisingapore.org/aiproducts/speech-lab/"
-    name: AISG Speech Lab
-
-  department:
-    url: "https://www.ntu.edu.sg/computing"
-    name: College of Computing and Data Science
-
-  university:
-    url: "http://www.ntu.edu.sg"
-    name: NTU
+layout: default
 ---
-
-<head>
-  <!-- Add Font Awesome CDN -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-</head>
 
 <div class="page-header">
   <div class="row">
@@ -30,7 +8,6 @@ work:
       <h3>{{ page.title }} </h3>
     </div>
   </div>
-
   <div class="row">
     <div class="col-sm-4">
       {% if page.scholar.id %}<a href="http://scholar.google.com/citations?user={{ page.scholar.id }}">
@@ -38,7 +15,6 @@ work:
       </a> Google Scholar<br/>{% endif %}
     </div>
   </div>
-
   <div class="row">
     <div class="col-sm-6">
       <address>
@@ -60,8 +36,18 @@ work:
 
 <hr>
 
-## Short Biography
+<nav>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="Speech and Language Laboratory.html">Speech and Language Laboratory</a></li>
+    <li><a href="Teaching Activities.html">Teaching Activities</a></li>
+    <li><a href="Fundings.html">Fundings</a></li>
+  </ul>
+</nav>
 
+<hr>
+
+## Short Biography
 - Associate Professor, [Nanyang Technological University (NTU)](http://www.ntu.edu.sg), Singapore [Mar'22 - ]
 - Assistant Professor, [Nanyang Technological University (NTU)](http://www.ntu.edu.sg), Singapore [Jul'17 - Feb'22]
 - Research Scientist, [Qatar Computing Research Institute (QCRI)](http://qcri.qa/), Doha [Jan'14 - Jul'17]
@@ -70,16 +56,13 @@ work:
 <hr>
 
 ## Research Interests
-
 ### Natural Language Processing
-
 - Large Language Models (LLMs)
 - Multi-lingual NLP (Machine Translation, Cross-lingual tasks)
 - Multi-modal NLP (NLP+Code, NLP+Vision)
 - Robust/adversarial NLP
 
 ### Machine Learning
-
 - Deep Learning
 - Probabilistic Graphical Models
 - Reinforcement Learning
